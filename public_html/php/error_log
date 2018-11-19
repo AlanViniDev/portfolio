@@ -1,0 +1,41 @@
+[22-Nov-2017 04:51:58 America/Chicago] PHP Notice:  Undefined index: g-recaptcha-response in /home/alanv703/public_html/php/contato.php on line 10
+[02-Jan-2018 19:39:14 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/alanv703/public_html/php/app_send.php on line 22
+[02-Jan-2018 19:40:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/alanv703/public_html/php/app_send.php on line 22
+[02-Jan-2018 19:42:02 America/Chicago] PHP Warning:  Creating default object from empty value in /home/alanv703/public_html/php/app_send.php on line 15
+[02-Jan-2018 19:42:02 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/alanv703/public_html/php/app_send.php on line 16
+[02-Jan-2018 19:42:10 America/Chicago] PHP Warning:  Creating default object from empty value in /home/alanv703/public_html/php/app_send.php on line 15
+[02-Jan-2018 19:42:10 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/alanv703/public_html/php/app_send.php on line 16
+[02-Jan-2018 19:43:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'response' (T_STRING), expecting ',' or ';' in /home/alanv703/public_html/php/app_send.php on line 15
+[03-Jan-2018 07:27:36 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[03-Jan-2018 07:27:36 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[03-Jan-2018 07:27:36 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:12:35 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[16-Jan-2018 06:12:35 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 06:12:35 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:12:47 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[16-Jan-2018 06:12:47 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 06:12:47 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:12:56 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[16-Jan-2018 06:12:56 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 06:12:56 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:13:49 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:16:24 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:16:31 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:16:36 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:31:31 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[16-Jan-2018 06:31:31 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 06:31:31 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:37:43 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[16-Jan-2018 06:37:43 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 06:37:43 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:37:50 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 06:37:50 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 06:41:34 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[16-Jan-2018 06:41:34 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 06:41:34 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 07:09:06 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[16-Jan-2018 07:09:06 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 07:09:06 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7
+[16-Jan-2018 07:39:07 America/Chicago] PHP Notice:  Undefined index: name in /home/alanv703/public_html/php/app_send.php on line 5
+[16-Jan-2018 07:39:07 America/Chicago] PHP Notice:  Undefined index: email in /home/alanv703/public_html/php/app_send.php on line 6
+[16-Jan-2018 07:39:07 America/Chicago] PHP Notice:  Undefined index: comments in /home/alanv703/public_html/php/app_send.php on line 7

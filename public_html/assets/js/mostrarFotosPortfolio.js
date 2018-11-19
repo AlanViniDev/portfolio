@@ -1,0 +1,3 @@
+$(function(){$('#conteudo').hide();var cont;var hash=window.location.hash;if(hash!='')
+{cont=$(hash).html();$('.abas li button[href="'+hash+'"]').parent().addClass('ativo');}else{cont=$('#conteudo div:first-child').html();$('.abas li:first-child').addClass('ativo');}
+$('#cont').append('<div>'+cont+'</div>').find('div').slideDown();$('.abas li button').click(function(){$('.abas li').removeClass('ativo');$(this).parent().addClass('ativo');var ancora=$(this).attr('href');var nome=ancora.substr(1,ancora.length);cont=$('#conteudo div[id="'+nome+'"]').html();$('#cont').empty();$('#cont').append('<div>'+cont+'</div>').find('div').slideDown();return false();})})
